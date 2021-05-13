@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <pelicula peli_id="1">
+    <titulo>La Momia</titulo>
+    <año>1942</año>
+    <genero>Terror</genero>
+    <clasificacion>B</clasificacion>
+  </pelicula>
+</peliculas>
