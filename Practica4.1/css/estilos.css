@@ -1,0 +1,15 @@
+.titulo{
+   text-align: center;
+   background-color: rgb(230, 165, 68);
+   color: rgb(254, 253, 255);
+  }
+   table {
+   width: 100%;
+   border: 1px solid rgb(221, 35, 22);
+}
+th, td {
+   width: 25%;
+   text-align: center;
+   vertical-align: top;
+   border: 1px solid rgb(8, 8, 8);
+}
