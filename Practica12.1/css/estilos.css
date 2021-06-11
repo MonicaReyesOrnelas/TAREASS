@@ -1,0 +1,32 @@
+.ct-series-a .ct-bar {
+    /* Color de las barras de la primer serie*/
+    stroke: rgb(27, 221, 331);
+    /* El ancho de las barras */
+    stroke-width: 1px;
+    }
+    .ct-series-b .ct-bar {
+    /* Color de las barras de la segunda serie */
+    stroke: rgb(184, 91, 192);
+    /* El ancho de las barras */
+    stroke-width: 1px;
+    }
+    .temp-box{
+    width: 30px;
+    }
+    .temp{
+    display: inline-flex;
+    }
+    .max{
+    background-color: rgb(63, 131, 151);
+    }
+    .min{
+    background-color: rgb(65, 225, 92);
+    }
+    .subt{
+    display: block;
+    color: rgb(202, 99, 159);
+    font-size: large;
+    }
+    .centro{
+    text-align: center;
+    }
