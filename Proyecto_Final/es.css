@@ -1,0 +1,63 @@
+h2{
+  text-align: center;
+  margin-left: 500px;
+}
+
+body{
+  
+}
+
+.graficas{
+  max-height: 400px;
+}
+.ct-series-a .ct-bar {
+  /* Color de las barras de la primer serie*/
+  stroke: rgb(212, 190, 236);
+  /* El ancho de las barras */
+  stroke-width: 50px;
+  
+}
+.ct-series-b .ct-bar  {
+  /* Color de las barras de la segunda serie */
+  stroke: rgb(231, 224, 161);
+  /* El ancho de las barras */
+  stroke-width: 35px;
+  
+}
+.ct-series-c .ct-bar {
+  /* Color de las barras de la segunda serie */
+  stroke: rgb(183, 236, 195);
+  /* El ancho de las barras */
+  stroke-width: 35px;
+  
+}
+.ct-series-d .ct-bar {
+  /* Color de las barras de la segunda serie */
+  stroke: rgb(253, 199, 241);
+  /* El ancho de las barras */
+  stroke-width: 35px;
+  
+}
+.temp-box{
+  width: 50px;
+  
+}
+.temp{
+  display: inline-flex;
+}
+.max{
+background-color: rgb(172, 167, 204);
+
+}
+.min{
+  background-color: rgb(171, 235, 159);
+}
+.subt{
+  display: block;
+  color: rgb(42, 136, 165);
+  
+  font-size: large;
+}
+.centro{
+  text-align: center;
+}
